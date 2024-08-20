@@ -14,7 +14,9 @@ It uses next-themes for dark and light mode and is built on reusable components
 - [x] Install & Initialize nextjs
 - [x] Remove placeholder code & change metadata
 - [ ] Set up shadcn & framer motion
+- [ ] Set up development environment & contineous integration
 - [ ] Set up mailserver and relevant endpoints
+- [ ] Set up production environment and contineous integration
 
 ### UI/UX
 
