@@ -18,7 +18,7 @@ It uses next-themes for dark and light mode and is built on reusable components
 
 ### UI/UX
 
-#### 2024-08-20
+#### *2024-08-20*
 
 - [ ] Create Hero component containing github information
 - [ ] Create top nav, the top nav must disapear on scroll down and become visible if the user scrolls up to make it flexible for mobile users
